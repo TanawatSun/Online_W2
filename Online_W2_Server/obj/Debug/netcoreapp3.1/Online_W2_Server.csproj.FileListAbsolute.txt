@@ -1,0 +1,11 @@
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\bin\Debug\netcoreapp3.1\Online_W2_Server.exe
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\bin\Debug\netcoreapp3.1\Online_W2_Server.deps.json
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\bin\Debug\netcoreapp3.1\Online_W2_Server.runtimeconfig.json
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\bin\Debug\netcoreapp3.1\Online_W2_Server.runtimeconfig.dev.json
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\bin\Debug\netcoreapp3.1\Online_W2_Server.dll
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\bin\Debug\netcoreapp3.1\Online_W2_Server.pdb
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\obj\Debug\netcoreapp3.1\Online_W2_Server.csprojAssemblyReference.cache
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\obj\Debug\netcoreapp3.1\Online_W2_Server.AssemblyInfoInputs.cache
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\obj\Debug\netcoreapp3.1\Online_W2_Server.AssemblyInfo.cs
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\obj\Debug\netcoreapp3.1\Online_W2_Server.dll
+G:\UnityGits\Online_W2\Online_W2\Online_W2_Server\obj\Debug\netcoreapp3.1\Online_W2_Server.pdb
